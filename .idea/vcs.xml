@@ -2,5 +2,17 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tema 1/ejer 5 Array" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tema 1/ejer 6 for each" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tema 1/ejer 7 Array" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tema 1/ejer2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tema 1/ejer3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tema 1/ejer4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tema 1/ejer5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tema 1/ejer5Array" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tema 1/ejer6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tema 1/ejer7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tema 1/ejersFunciones" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tema 1/primerosEjercicios" vcs="Git" />
   </component>
 </project>
