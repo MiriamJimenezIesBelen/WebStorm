@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c1bfb1f-2b15-4003-8768-0efbf0a05293" name="Changes" comment="Ya esta bien">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tema 1/ejer2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tema 1/ejer3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tema 1/ejer4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tema 1/ejer5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tema 1/ejer6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tema 1/ejer7" beforeDir="false" />
+    <list default="true" id="9c1bfb1f-2b15-4003-8768-0efbf0a05293" name="Changes" comment="ejers">
+      <change beforePath="$PROJECT_DIR$/Tema 1/ejer notas CleanCode/.idea/ejer notas CleanCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Tema 1/ejer notas CleanCode/.idea/ejer notas CleanCode.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +56,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Miriam\Desktop\Desarrollo web entorno cliente\WebStorm\Tema 1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -82,7 +80,7 @@
       <workItem from="1758881541592" duration="68000" />
       <workItem from="1758882165511" duration="314000" />
       <workItem from="1759213362806" duration="736000" />
-      <workItem from="1759218722922" duration="614000" />
+      <workItem from="1759218722922" duration="1272000" />
     </task>
     <task id="LOCAL-00001" summary="Ya esta bien">
       <option name="closed" value="true" />
@@ -92,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758882382474</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ejers">
+      <option name="closed" value="true" />
+      <created>1759220831142</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759220831142</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +106,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ya esta bien" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ya esta bien" />
+    <MESSAGE value="ejers" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejers" />
   </component>
 </project>
