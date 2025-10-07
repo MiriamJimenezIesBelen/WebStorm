@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9c1bfb1f-2b15-4003-8768-0efbf0a05293" name="Changes" comment="arrow functions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Arrow Functions/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Tema 1/Arrow Functions/.idea/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Tema 1/ejer 2" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Tema 1/Arrow Functions" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -59,7 +60,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.selected.configurable": "vcs.Git",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -99,6 +100,7 @@
       <workItem from="1759737881464" duration="1036000" />
       <workItem from="1759818114597" duration="576000" />
       <workItem from="1759819102520" duration="1495000" />
+      <workItem from="1759820689017" duration="840000" />
     </task>
     <task id="LOCAL-00001" summary="Ya esta bien">
       <option name="closed" value="true" />
@@ -156,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759820146964</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="arrow functions">
+      <option name="closed" value="true" />
+      <created>1759820891622</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1759820891622</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
