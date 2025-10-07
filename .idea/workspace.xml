@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c1bfb1f-2b15-4003-8768-0efbf0a05293" name="Changes" comment="carpetas" />
+    <list default="true" id="9c1bfb1f-2b15-4003-8768-0efbf0a05293" name="Changes" comment="carpetas">
+      <change afterPath="$PROJECT_DIR$/Tema 1/EjerArrays/EjercicioCSV/E02-3CSV.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema 1/EjerArrays/EjercicioCSV/U02-1JavasriptFundamentalsv8-1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema 1/EjerArrays/EjercicioCSV/code/assets/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema 1/EjerArrays/EjercicioCSV/code/assets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema 1/EjerArrays/EjercicioCSV/code/email-password-recovery-code.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema 1/EjerArrays/EjercicioCSV/code/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Ejer Arrays/EjercicioCSV/E02-3CSV.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Ejer Arrays/EjercicioCSV/U02-1JavasriptFundamentalsv8-1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Ejer Arrays/EjercicioCSV/code/assets/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Ejer Arrays/EjercicioCSV/code/assets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Ejer Arrays/EjercicioCSV/code/email-password-recovery-code.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Ejer Arrays/EjercicioCSV/code/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Primeros ejers/ejer 2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Primeros ejers/ejer 2/.idea/Arrow Functions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Primeros ejers/ejer 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Primeros ejers/ejer 2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Primeros ejers/ejer 2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Primeros ejers/ejer 2/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Primeros ejers/ejer 2/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Primeros ejers/ejer 3" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +122,7 @@
       <workItem from="1759819102520" duration="1495000" />
       <workItem from="1759820689017" duration="1046000" />
       <workItem from="1759821875738" duration="34000" />
-      <workItem from="1759821921802" duration="1892000" />
+      <workItem from="1759821921802" duration="2260000" />
     </task>
     <task id="LOCAL-00001" summary="Ya esta bien">
       <option name="closed" value="true" />
@@ -206,7 +228,23 @@
       <option name="project" value="LOCAL" />
       <updated>1759823835767</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="carpetas">
+      <option name="closed" value="true" />
+      <created>1759824020996</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1759824020996</updated>
+    </task>
+    <task id="LOCAL-00015" summary="carpetas">
+      <option name="closed" value="true" />
+      <created>1759824039789</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1759824039789</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
