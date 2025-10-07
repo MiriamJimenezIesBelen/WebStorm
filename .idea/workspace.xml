@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c1bfb1f-2b15-4003-8768-0efbf0a05293" name="Changes" comment="arrow functions" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MiriamJimenezIesBelen&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MiriamJimenezIesBelen/WebStorm.git&quot;,
+    &quot;accountId&quot;: &quot;fac84b31-7777-42ee-8faa-4a0e0f47457f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="33ERvOINoRsuBXCqjmCzjoiRX7Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.index.html.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.ejer1.js.executor": "Debug",
+    "Node.js.ejer2.js.executor": "Debug",
+    "Node.js.ejer3.js.executor": "Debug",
+    "Node.js.ejer4.js.executor": "Debug",
+    "Node.js.ejer5.js.executor": "Debug",
+    "Node.js.ejer6.js.executor": "Debug",
+    "Node.js.index.js.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Miriam/Desktop/Desarrollo web entorno cliente/WebStorm/Tema 1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Miriam\Desktop\Desarrollo web entorno cliente\WebStorm\Tema 1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Miriam\Desktop\Desarrollo web entorno cliente\WebStorm\Tema 1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-WS-252.25557.126" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c1bfb1f-2b15-4003-8768-0efbf0a05293" name="Changes" comment="" />
+      <created>1758880474845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758880474845</updated>
+      <workItem from="1758880475986" duration="929000" />
+      <workItem from="1758881431414" duration="96000" />
+      <workItem from="1758881541592" duration="68000" />
+      <workItem from="1758882165511" duration="314000" />
+      <workItem from="1759213362806" duration="736000" />
+      <workItem from="1759218722922" duration="3143000" />
+      <workItem from="1759223643649" duration="9000" />
+      <workItem from="1759299616709" duration="908000" />
+      <workItem from="1759300608629" duration="1181000" />
+      <workItem from="1759309628820" duration="482000" />
+      <workItem from="1759737881464" duration="1036000" />
+      <workItem from="1759818114597" duration="576000" />
+      <workItem from="1759819102520" duration="306000" />
+    </task>
+    <task id="LOCAL-00001" summary="Ya esta bien">
+      <option name="closed" value="true" />
+      <created>1758882382474</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758882382474</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ejers">
+      <option name="closed" value="true" />
+      <created>1759220831142</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759220831142</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ejers">
+      <option name="closed" value="true" />
+      <created>1759221597884</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759221597884</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ejers nuevos">
+      <option name="closed" value="true" />
+      <created>1759222185729</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759222185729</updated>
+    </task>
+    <task id="LOCAL-00005" summary="arrow functions">
+      <option name="closed" value="true" />
+      <created>1759309785134</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1759309785134</updated>
+    </task>
+    <task id="LOCAL-00006" summary="arrow functions">
+      <option name="closed" value="true" />
+      <created>1759818220417</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1759818220417</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ya esta bien" />
+    <MESSAGE value="ejers" />
+    <MESSAGE value="ejers nuevos" />
+    <MESSAGE value="arrow functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="arrow functions" />
+  </component>
+</project>

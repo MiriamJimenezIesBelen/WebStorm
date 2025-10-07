@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+
+body {
+    padding: 30px;
+    font-size: 15px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.location-sort {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #0d3d56;
+    width: 100%;
+    padding: 10px 20px;
+}
+
+.location-sort h3{
+    color: white;
+}
+
+.location-radio {
+    display: flex;
+}
+
+.location-radio div {
+    display: flex;
+    align-items: center;
+    padding: 5px 15px;
+}
+
+.location-sort label {
+    cursor: pointer;
+    color: white;
+    font-size: 14px;
+    white-space: nowrap;
+    margin: 0;
+}
+
+.all {
+    background-color: #0f7486;
+    color: white;
+}
+
+.london {
+    background-color: #28a745;
+    color: white;
+}
+
+.manchester {
+    background-color: #ecb60b;
+    color: black;
+}
+
+.ny {
+    background-color: #dc3545;
+    color: white;
+}
+
+.sort-container {
+    margin-top: 20px;
+}
+
+.sort-container select {
+    padding: 8px 30px 8px 12px;
+    cursor: pointer;
+    background-color: #6c757d;
+    color: white;
+    appearance: none;
+    width: fit-content;
+}
+
+.sort-container select option {
+    background-color: white;
+    color: black;
+    padding: 8px;
+    border: none;
+}
+
+.box-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.tarjeta-empleado {
+    background: white;
+    border: 1px solid #e0e0e0;
+}
+
+.tarjeta-empleado h3 {
+    font-size: 18px;
+    font-weight: normal;
+    padding: 12px;
+    margin: 10px 0;
+}
+
+.tarjeta-empleado p {
+    font-size: 13px;
+    color: #5f6368;
+    padding: 3px;
+    margin-top: 10px;
+}
+
+.tarjeta-empleado .btn {
+    margin-top: 12px;
+    padding: 8px 16px;
+    background-color: #1a73e8;
+    color: white;
+    border: none;
+    font-size: 13px;
+    cursor: pointer;
+}
+
+.department-box {
+    background-color: #f5f5f5;
+    border: 1px solid #e0e0e0;
+    margin: 0;
+}
+.department-box p{
+    margin: 10px;
+}
