@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="assets/style.css">
+    <title>CVS</title>
+</head>
+<body>
+    <h1>Ejercicio CVS</h1>
+    <div class="container">
+        <div class="location-sort">
+            <h3>Location</h3>
+            <div class="location-radio">
+                <div class="all">
+                    <input type="radio" name="location" id="all" checked>
+                    <label for="all">All</label>
+                </div>
+                <div class="london">
+                    <input type="radio" name="location" id="london">
+                    <label for="london">London</label>
+                </div>
+                <div class="manchester">
+                    <input type="radio" name="location" id="manchester">
+                    <label for="manchester">Manchester</label>
+                </div>
+                <div class="ny">
+                    <input type="radio" name="location" id="ny">
+                    <label for="ny">NY</label>
+                </div>
+            </div>
+        </div>
+        <div class="sort-container">
+            <select id="select-sort">
+                <option selected disabled hidden>Sort by ▼</option>
+                <option value="name">Name</option>
+                <option value="department">Department</option>
+                <option value="location">Location</option>
+            </select>
+        </div>
+        <div class="box-container" id="box-container"></div>
+    </div>
+    <script src="assets/script.js"></script>
+</body>
+
+</html>
