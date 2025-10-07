@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c1bfb1f-2b15-4003-8768-0efbf0a05293" name="Changes" comment="arrow functions" />
+    <list default="true" id="9c1bfb1f-2b15-4003-8768-0efbf0a05293" name="Changes" comment="arrow functions">
+      <change beforePath="$PROJECT_DIR$/Tema 1/ejer 2" beforeDir="false" afterPath="$PROJECT_DIR$/Tema 1/ejer 2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/ejer 2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/ejer 2/.idea/ejer2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/ejer 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/ejer 2/.idea/vcs.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +102,7 @@
       <workItem from="1759309628820" duration="482000" />
       <workItem from="1759737881464" duration="1036000" />
       <workItem from="1759818114597" duration="576000" />
-      <workItem from="1759819102520" duration="710000" />
+      <workItem from="1759819102520" duration="1021000" />
     </task>
     <task id="LOCAL-00001" summary="Ya esta bien">
       <option name="closed" value="true" />
