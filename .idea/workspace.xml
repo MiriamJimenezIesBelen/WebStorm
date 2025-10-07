@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c1bfb1f-2b15-4003-8768-0efbf0a05293" name="Changes" comment="carpetas" />
+    <list default="true" id="9c1bfb1f-2b15-4003-8768-0efbf0a05293" name="Changes" comment="bien" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +100,7 @@
       <workItem from="1759819102520" duration="1495000" />
       <workItem from="1759820689017" duration="1046000" />
       <workItem from="1759821875738" duration="34000" />
-      <workItem from="1759821921802" duration="2566000" />
+      <workItem from="1759821921802" duration="2865000" />
     </task>
     <task id="LOCAL-00001" summary="Ya esta bien">
       <option name="closed" value="true" />
@@ -238,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759824346256</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="bien">
+      <option name="closed" value="true" />
+      <created>1759824622042</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1759824622042</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +258,7 @@
     <MESSAGE value="ejers nuevos" />
     <MESSAGE value="arrow functions" />
     <MESSAGE value="carpetas" />
-    <option name="LAST_COMMIT_MESSAGE" value="carpetas" />
+    <MESSAGE value="bien" />
+    <option name="LAST_COMMIT_MESSAGE" value="bien" />
   </component>
 </project>
